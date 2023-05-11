@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>이미지 글자 인식</title>
+</head>
+<body>
+    <h1>이미지 글자 인식</h1>
+   
+    {% if filename %}<br>
+        <div>
+            <img src="{{filename}}" width=500 height=450 align=left>
+        </div>   
+               
+     {% endif %}
+	 <form method="POST" action="/upload" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="인식">
+    </form>
+
+</body>
+</html>
