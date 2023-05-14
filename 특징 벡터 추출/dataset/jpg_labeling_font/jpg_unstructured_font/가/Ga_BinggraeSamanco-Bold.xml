@@ -1,0 +1,26 @@
+<annotation>
+	<folder>가</folder>
+	<filename>Ga_BinggraeSamanco-Bold.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_unstructured_font/가/Ga_BinggraeSamanco-Bold.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gaji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>52</ymin>
+			<xmax>151</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

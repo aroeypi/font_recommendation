@@ -1,0 +1,26 @@
+<annotation>
+	<folder>랄</folder>
+	<filename>Ral_BinggraeSamanco-Bold.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_unstructured_font/랄/Ral_BinggraeSamanco-Bold.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gaji</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>51</ymin>
+			<xmax>162</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>
