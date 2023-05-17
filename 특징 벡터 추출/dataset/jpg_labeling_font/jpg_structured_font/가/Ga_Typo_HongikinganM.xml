@@ -1,7 +1,7 @@
 <annotation>
-	<folder>앙</folder>
-	<filename>Ang_10X10.jpg</filename>
-	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/앙/Ang_10X10.jpg</path>
+	<folder>가</folder>
+	<filename>Ga_Typo_HongikinganM.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/가/Ga_Typo_HongikinganM.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>68</ymin>
-			<xmax>212</xmax>
-			<ymax>102</ymax>
+			<xmin>158</xmin>
+			<ymin>71</ymin>
+			<xmax>213</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 </annotation>

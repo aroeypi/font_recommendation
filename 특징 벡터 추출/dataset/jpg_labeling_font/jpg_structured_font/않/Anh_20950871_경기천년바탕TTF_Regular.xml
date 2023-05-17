@@ -1,7 +1,7 @@
 <annotation>
 	<folder>않</folder>
-	<filename>Anh_10X10.jpg</filename>
-	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/않/Anh_10X10.jpg</path>
+	<filename>Anh_20950871_경기천년바탕TTF_Regular.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/않/Anh_20950871_경기천년바탕TTF_Regular.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>156</xmin>
-			<ymin>48</ymin>
-			<xmax>203</xmax>
-			<ymax>82</ymax>
+			<xmin>142</xmin>
+			<ymin>65</ymin>
+			<xmax>187</xmax>
+			<ymax>105</ymax>
 		</bndbox>
 	</object>
 </annotation>

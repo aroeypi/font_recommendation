@@ -1,7 +1,7 @@
 <annotation>
 	<folder>않</folder>
-	<filename>Anh_10X10.jpg</filename>
-	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/않/Anh_10X10.jpg</path>
+	<filename>Anh_국립박물관문화재단클래식L.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/않/Anh_국립박물관문화재단클래식L.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>156</xmin>
-			<ymin>48</ymin>
-			<xmax>203</xmax>
-			<ymax>82</ymax>
+			<xmin>150</xmin>
+			<ymin>63</ymin>
+			<xmax>204</xmax>
+			<ymax>110</ymax>
 		</bndbox>
 	</object>
 </annotation>

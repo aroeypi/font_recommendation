@@ -1,7 +1,7 @@
 <annotation>
 	<folder>가</folder>
-	<filename>Ga_10X10.jpg</filename>
-	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/가/Ga_10X10.jpg</path>
+	<filename>Ga_국립박물관문화재단클래식L.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/가/Ga_국립박물관문화재단클래식L.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>154</xmin>
-			<ymin>67</ymin>
-			<xmax>203</xmax>
-			<ymax>115</ymax>
+			<xmin>145</xmin>
+			<ymin>91</ymin>
+			<xmax>199</xmax>
+			<ymax>136</ymax>
 		</bndbox>
 	</object>
 </annotation>

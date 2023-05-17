@@ -1,7 +1,7 @@
 <annotation>
 	<folder>앙</folder>
-	<filename>Ang_10X10.jpg</filename>
-	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/앙/Ang_10X10.jpg</path>
+	<filename>Ang_국립박물관문화재단클래식L.jpg</filename>
+	<path>/Users/kimrijoo/font_recommendation/특징 벡터 추출/dataset/jpg_labeling_font/jpg_structured_font/앙/Ang_국립박물관문화재단클래식L.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>68</ymin>
-			<xmax>212</xmax>
-			<ymax>102</ymax>
+			<xmin>155</xmin>
+			<ymin>71</ymin>
+			<xmax>210</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 </annotation>
